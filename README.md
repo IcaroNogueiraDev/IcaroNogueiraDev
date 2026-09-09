@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
   &nbsp;
-  <a href="#instagram.com/icc.nogueira_">
+  <a href="https://instagram.com/ic.nogueira_">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
 </p>
