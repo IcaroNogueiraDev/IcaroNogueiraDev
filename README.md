@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Ícaro
+# Oi, me chamo Ícaro
 
 ### Desenvolvedor Web
 
@@ -25,9 +25,6 @@ Construo interfaces e aplicações web modernas, buscando unir **design, perform
 
 </div>
 
-
-## 📊 GitHub
-
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -35,19 +32,6 @@ Construo interfaces e aplicações web modernas, buscando unir **design, perform
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
-
----
-
-## 📫 Contato
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge\&logo=gmail\&logoColor=white)](#)
-
-</div>
-
----
 
 <div align="center">
 
