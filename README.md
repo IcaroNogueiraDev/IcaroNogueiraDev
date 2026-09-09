@@ -7,7 +7,7 @@
 ### Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,sql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,mysql,supabase,git,github" />
 </p>
 
 ---
