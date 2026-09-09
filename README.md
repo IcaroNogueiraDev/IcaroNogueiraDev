@@ -1,40 +1,45 @@
-# Oi, me chamo Ícaro
+# Ícaro Nogueira
 
-### Desenvolvedor Web
+**Web Developer · Autodidata · Vibecoder**
 
-Construo interfaces e aplicações web modernas, buscando unir **design, performance e funcionalidade** para transformar ideias em produtos reais.
+> Construindo, aprendendo e transformando ideias em código.
 
----
+### Stack
 
-## 🚀 Sobre mim
-
-* 💻 Desenvolvedor focado em desenvolvimento web
-* ⚛️ Trabalho principalmente com **React e typescript**
-* 🔧 Desenvolvo APIs utilizando **Node.js**
-* 🎨 Gosto de criar interfaces modernas e experiências de usuário bem pensadas
-* 📚 Atualmente aprofundando meus conhecimentos em **Full Stack**
-* 🚀 Sempre buscando transformar ideias em projetos reais
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,sql,git,github" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias
+### Currently
 
-<div align="left">
+🔭 Construindo projetos web
+📚 Aprofundando meus conhecimentos em Full Stack
+⚡ Aprendendo na prática, um projeto de cada vez.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,tailwind,git,github" />
+---
 
-</div>
+### Contact
+
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a>
+</p>
+
+---
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-### "Transformando ideias em experiências digitais."
+**Code · Build · Learn · Repeat**
 
 </div>
