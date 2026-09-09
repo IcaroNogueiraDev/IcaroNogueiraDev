@@ -12,7 +12,7 @@
 
 ---
 
-### Currently
+### Atualmente
 
 🔭 Construindo projetos web
 📚 Aprofundando meus conhecimentos em Full Stack
@@ -20,18 +20,14 @@
 
 ---
 
-### Contact
+### Contatos
 
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
   &nbsp;
-  <a href="#">
+  <a href="mailto:nogueiradev@hotmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
   &nbsp;
-  <a href="#">
+  <a href="#instagram.com/icc.nogueira_">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
 </p>
