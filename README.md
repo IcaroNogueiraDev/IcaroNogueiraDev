@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Ícaro Nogueira - Web Developer" width="100%">
-</p>
 
 # Ícaro Nogueira
 
